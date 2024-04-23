@@ -1,0 +1,8 @@
+github.com/Nik-U/pbc v0.0.0-20181205041846-3e516ca0c5d6 h1:GU/vL5sj0IgGYEOIIAJ1HDI9dgqT0gJXkhXINri7Otc=
+github.com/Nik-U/pbc v0.0.0-20181205041846-3e516ca0c5d6/go.mod h1:Zt2U1SemYWNGXqS1fDiZC7u74nsJTAnWK5WVgvI8OAs=
+github.com/ucbrise/MerkleSquare v0.0.0-20210427034819-f6e13efccdd0 h1:QsyttVS6MDR57x7uZs3EMzeTJSiKPyc2CHDbPVLfMzI=
+github.com/ucbrise/MerkleSquare v0.0.0-20210427034819-f6e13efccdd0/go.mod h1:rPt7DXZ1xAFO37dBGAg85Dbbfuib/IlaXnYHkM9GEgM=
+golang.org/x/crypto v0.22.0 h1:g1v0xeRhjcugydODzvb3mEM9SQ0HGp9s/nh3COQ/C30=
+golang.org/x/crypto v0.22.0/go.mod h1:vr6Su+7cTlO45qkww3VDJlzDn0ctJvRgYbC2NvXHt+M=
+golang.org/x/sys v0.19.0 h1:q5f1RH2jigJ1MoAWp2KTp3gm5zAGFUTarQZ5U386+4o=
+golang.org/x/sys v0.19.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
